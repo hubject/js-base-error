@@ -1,6 +1,6 @@
 {
-  "name": "@etianen/base-error",
-  "version": "0.2.0",
+  "name": "@hubject/base-error",
+  "version": "1.0.0",
   "description": "A base error class with stack trace support.",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
@@ -16,11 +16,8 @@
   "directories": {
     "test": "test"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {},
-  "repository": "etianen/js-base-error",
-  "bugs": "https://github.com/etianen/js-base-error/issues",
-  "homepage": "https://github.com/etianen/js-base-error#readme"
+  "repository": "hubject/js-base-error",
+  "bugs": "https://github.com/hubject/js-base-error/issues",
+  "homepage": "https://github.com/hubject/js-base-error#readme"
 }
